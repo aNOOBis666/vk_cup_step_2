@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">vkCupSelectionStep</string>
+    <string name="multi_steps_action">Многоступенчатый опрос</string>
+    <string name="compare_action">Сопоставление элементов</string>
+    <string name="moving_into_blank_action">Перетаскивание в пропуск</string>
+    <string name="filling_blank_action">Заполнение пропусков</string>
+    <string name="rate_action">Оценка</string>
+</resources>
